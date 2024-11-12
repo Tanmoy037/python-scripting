@@ -1,0 +1,5 @@
+
+2024-11-12 23:35:47,425 - INFO - Successfully read file: existing_file.txt
+2024-11-12 23:35:47,425 - ERROR - File not found: nonexistent_file.txt
+2024-11-12 23:35:47,425 - INFO - Running command: ls -l
+2024-11-12 23:35:47,438 - INFO - Command succeeded: ls -l
