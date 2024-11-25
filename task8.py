@@ -67,5 +67,5 @@ def delete_s3_bucket(bucket_name):
         print(f"Bucket '{bucket_name}' deleted successfully")
     except Exception as e:
         print(f"Error deleting bucket: {e}")
-
+clear
 delete_s3_bucket("test12s45")
